@@ -8,6 +8,7 @@ namespace LeMovieShop.Controllers
 {
     public class HomeController : Controller
     {
+        // Se frontpage
         public ActionResult Index()
         {
             return View();
