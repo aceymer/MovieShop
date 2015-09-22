@@ -8,6 +8,7 @@ namespace LeMovieShop.Controllers
 {
     public class HomeController : Controller
     {
+        //kidnap the santaclaus
         public ActionResult Index()
         {
             return View();
