@@ -6,6 +6,9 @@ using System.Web.Mvc;
 
 namespace LeMovieShop.Controllers
 {
+    //Ost er psyko!
+    //Smagsløg kan ikke drikke kamelaffald
+
     public class HomeController : Controller
     {
         public ActionResult Index()
