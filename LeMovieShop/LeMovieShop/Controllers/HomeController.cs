@@ -11,11 +11,8 @@ namespace LeMovieShop.Controllers
 
     public class HomeController : Controller
     {
-<<<<<<< HEAD
         //kidnap the santaclaus
-=======
         // Se frontpage
->>>>>>> aae4808054e42c8021a357ed8fa7696a3938b4b6
         public ActionResult Index()
         {
             return View();
